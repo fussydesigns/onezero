@@ -10,7 +10,7 @@
 var zero = require('onezero');
 var date = {year: 2027, month: 7, date: 4};
 var output = zero(date) +'/'+ zero(month) +'/'+ year;
-document.write(output);
+document.write(output); // prints '04/07/2027'
 ```
 
 ### Why would I use this?
