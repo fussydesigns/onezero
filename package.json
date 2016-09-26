@@ -1,0 +1,35 @@
+{
+  "name": "onezero",
+  "version": "0.0.2",
+  "description": "prepends '0' to any single character input, leaving untouched otherwise",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "keywords": [
+    "formatting",
+    "formats",
+    "format",
+    "number formats",
+    "numerical",
+    "numerical formatting",
+    "datetime",
+    "date format",
+    "time format",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fussydesigns/onezero.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fussydesigns/onezero/issues"
+  },
+  "homepage": "https://github.com/fussydesigns/onezero#readme",
+  "author": "Fussy Designs",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
