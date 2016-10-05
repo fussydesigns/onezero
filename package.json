@@ -1,6 +1,6 @@
 {
   "name": "onezero",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "prepends '0' to any single character input, leaving untouched otherwise",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,11 @@
     "url": "https://github.com/fussydesigns/onezero/issues"
   },
   "homepage": "https://github.com/fussydesigns/onezero#readme",
-  "author": "Fussy Designs",
+  "author": {
+    "email": "hello@fussydesigns.com",
+    "name": "Fussy Designs",
+    "url": "http://fussydesigns.com"
+  },
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
